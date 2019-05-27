@@ -61,7 +61,7 @@ _localmodcfg=
 ### IMPORTANT: Do no edit below this line unless you know what you're doing
 
 pkgbase=linux-ck-surface
-_srcver=5.0.15-arch1
+_srcver=5.0.19-arch1
 pkgver=${_srcver%-*}
 pkgrel=1
 _ckpatchversion=1
